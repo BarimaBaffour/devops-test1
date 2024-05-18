@@ -1,0 +1,41 @@
+---------------------------------------------------
+Company Name: XYZ Corporation
+Employee Name: John Doe
+Employee ID: 12345
+Pay Period: May 1-15, 2024
+Pay Date: May 20, 2024
+---------------------------------------------------
+Earnings:
+ Basic Salary:        $2000.00
+ Overtime Pay:        $150.00
+ Bonus:               $200.00
+ Allowances:          $100.00
+---------------------------------------------------
+ Total Earnings:      $2450.00
+---------------------------------------------------
+Deductions:
+ Federal Tax:         $300.00
+ State Tax:           $100.00
+ Social Security:     $150.00
+ Medicare:            $50.00
+ Health Insurance:    $100.00
+ Retirement:          $200.00
+---------------------------------------------------
+ Total Deductions:    $900.00
+---------------------------------------------------
+Net Pay:              $1550.00
+---------------------------------------------------
+Year-to-Date Totals:
+ Total Earnings:      $10250.00
+ Total Deductions:    $3600.00
+ Net Pay:             $6650.00
+---------------------------------------------------
+Leave Balances:
+ Vacation Leave:      10 days
+ Sick Leave:          5 days
+---------------------------------------------------
+Bank Details:
+ Bank Name:           ABC Bank
+ Account Number:      987654321
+---------------------------------------------------
+
